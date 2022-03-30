@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 data = []
 head = 'no' # to extract header once
 
-for years in range(1977,2020):
+for years in range(1977,2022):
     year = years
     url = f'https://www.fangraphs.com/leaders.aspx?pos=all&stats=fld&lg=all&qual=0&type=0&season={year}&month=0&season1={year}&ind=0&team=0,ts&rost=0&age=0&filter=&players=0&startdate=&enddate='
 
