@@ -1,6 +1,6 @@
 # Summary
 
-## What's most important: Batting, Pitching and Fielding
+## What's most important: Batting, Pitching, Fielding and Base Running
 
 After going through some analysis with baseball, I came to wonder in what areas in baseball are statistically important to winning. Thus, we will see how four main skills in baseball, batting, pitching, fielding and base running, effect teams winning percentage.
 
